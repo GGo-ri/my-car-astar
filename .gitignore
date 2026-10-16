@@ -1,0 +1,25 @@
+# colcon 빌드 결과물
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
+venv/
+
+# Ultralytics(YOLO) 실행 결과 폴더
+runs/
+
+# 개인 메모 / 에디터 / OS 파일
+CLAUDE.md
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# 압축 파일
+*.zip
